@@ -1,5 +1,7 @@
 # Clube-Fedor
 
+Deply https://clubevedor.netlify.app/
+
 awal src > script => component data-sourse.js 
 
     const filteredClubs = clubs.filter(club => club.name.toUpperCase().includes(keyword.toUpperCase()));
